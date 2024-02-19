@@ -1,0 +1,7 @@
+POST http://localhost:8085/students/verifyIfHasCertification
+Content-Type: application/json
+
+{
+  "email": "pratesmath@gmail.com",
+  "technology": "JAVA"
+}
